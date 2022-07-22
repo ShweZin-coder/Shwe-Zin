@@ -46,7 +46,6 @@
                             <h3 class="hello">Hello, my name is <span class="name">Shwe Zin</span></h3>
                             <h3 class="my-profession">I'm a <span class="typing"></span></h3>
                             <p>I can create website using WordPress and build web application using PHP. Moreover, I can build responsive web design using HTML5, CSS3 and Javascript for your website.</p>
-                            <a href="#contactsection" class="btn hire-me">Hire Me</a>
                         </div>
                         <div class="home-img padd-15">
                             <img src="img/myprofile.jpg" alt="">
